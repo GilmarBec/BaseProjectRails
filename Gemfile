@@ -24,6 +24,9 @@ gem 'coffee-rails', '~> 4.2'
 #gem bootstrap
 gem "twitter-bootstrap-rails"
 
+#Form simplificado
+gem 'simple_form'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
