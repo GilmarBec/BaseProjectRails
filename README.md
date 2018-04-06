@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+##Only in Senai:
 
-* System dependencies
+###Git Proxy:
+`git config --global http.proxy http://10.1.118.254:3128`
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###Rails Path and Proxy 
+`@set PATH=C:\RailsInstaller\Ruby2.2.0\bin;%PATH%
+set http_proxy=http://10.1.118.254:3128`
